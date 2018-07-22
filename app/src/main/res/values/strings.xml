@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="item_id">id</string>
+</resources>
